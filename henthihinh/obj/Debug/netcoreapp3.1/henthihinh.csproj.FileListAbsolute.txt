@@ -1,0 +1,12 @@
+C:\Users\ronng\source\repos\henthihinh\henthihinh\bin\Debug\netcoreapp3.1\henthihinh.exe
+C:\Users\ronng\source\repos\henthihinh\henthihinh\bin\Debug\netcoreapp3.1\henthihinh.deps.json
+C:\Users\ronng\source\repos\henthihinh\henthihinh\bin\Debug\netcoreapp3.1\henthihinh.runtimeconfig.json
+C:\Users\ronng\source\repos\henthihinh\henthihinh\bin\Debug\netcoreapp3.1\henthihinh.runtimeconfig.dev.json
+C:\Users\ronng\source\repos\henthihinh\henthihinh\bin\Debug\netcoreapp3.1\henthihinh.dll
+C:\Users\ronng\source\repos\henthihinh\henthihinh\bin\Debug\netcoreapp3.1\henthihinh.pdb
+C:\Users\ronng\source\repos\henthihinh\henthihinh\obj\Debug\netcoreapp3.1\henthihinh.AssemblyInfoInputs.cache
+C:\Users\ronng\source\repos\henthihinh\henthihinh\obj\Debug\netcoreapp3.1\henthihinh.AssemblyInfo.cs
+C:\Users\ronng\source\repos\henthihinh\henthihinh\obj\Debug\netcoreapp3.1\henthihinh.csproj.CoreCompileInputs.cache
+C:\Users\ronng\source\repos\henthihinh\henthihinh\obj\Debug\netcoreapp3.1\henthihinh.dll
+C:\Users\ronng\source\repos\henthihinh\henthihinh\obj\Debug\netcoreapp3.1\henthihinh.pdb
+C:\Users\ronng\source\repos\henthihinh\henthihinh\obj\Debug\netcoreapp3.1\henthihinh.genruntimeconfig.cache
